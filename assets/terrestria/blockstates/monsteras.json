@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+            { "model": "terrestria:block/monsteras_tall", "weight": 2 },
+	    { "model": "terrestria:block/monsteras_short", "weight": 5 },
+	    { "model": "terrestria:block/monsteras_short_tall", "weight": 5 },
+	    { "model": "terrestria:block/monsteras_tall_short", "weight": 5 },
+	    { "model": "terrestria:block/monsteras_wilt_west", "weight": 1 },
+	    { "model": "terrestria:block/monsteras_wilt_north", "weight": 1 },
+	    { "model": "terrestria:block/monsteras_wilt_east", "weight": 1 },
+	    { "model": "terrestria:block/monsteras_wilt_south", "weight": 1 },
+	    { "model": "terrestria:block/monsteras_perk_south", "weight": 1 },
+	    { "model": "terrestria:block/monsteras_perk_north", "weight": 1 },
+	    { "model": "terrestria:block/monsteras_perk_east", "weight": 1 },
+	    { "model": "terrestria:block/monsteras_perk_west", "weight": 1 }
+        ]
+  }
+}
